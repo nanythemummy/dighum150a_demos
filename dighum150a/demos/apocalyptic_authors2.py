@@ -1,4 +1,6 @@
-#This is a global variable. All functions in this file have access to it, and functions in other files will too if this file gets imported into them.
+#This is a global variable. 
+#All functions in this file have access to it, and functions in 
+#other files will too if this file gets imported into them.
 authorinfo = {
     "Muir, Tamsyn": {
         "books": ["Gideon the Ninth",
